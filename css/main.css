@@ -5,8 +5,6 @@
   --font-secondary: "Roboto Slab", sans-serif;
 }
 
-
-
 html {
   font-family: var(--font-primary);
 }
